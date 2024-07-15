@@ -24,4 +24,4 @@ Functionalities :
 - Axios
 - Bootstrap
 
-### I'm open to suggestions , you can [mail](mailto:fularekaran@yahoo.com) me, thank you !!!
+
